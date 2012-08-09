@@ -3,7 +3,7 @@
 It goes without saying that you should keep a fully backed-up copy of your
 database and web directory.
 
-- Check the [system requirement](../getting-started/requirements)
+- Check the [system requirements](../1.4/getting-started/requirements)
 
 - `Config/core.php`
 
